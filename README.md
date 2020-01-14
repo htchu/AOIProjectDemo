@@ -1,5 +1,6 @@
 # AOIQuickDemo
-AIDEA-Defect Classifications of AOI https://aidea-web.tw/topic/a49e3f76-69c9-4a4a-bcfc-c882840b3f27
+AIDEA-Defect Classifications of AOI Project
+https://aidea-web.tw/topic/314c18ac-d3a4-462a-80dd-61eba86b42e6
 
 
 ## Installing Python 3.x, Pip3, VirtualEnv on Ubuntu
