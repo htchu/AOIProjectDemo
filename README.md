@@ -20,6 +20,13 @@ https://aidea-web.tw/topic/314c18ac-d3a4-462a-80dd-61eba86b42e6
 > pip3 install -r requirements.txt
 ```
 
+## Create a virtual environment AOI-Py3 with conda
+```
+conda create --name AOI-Py3
+conda activate AOI-Py3
+conda deactivate
+```
+
 # Run with the virtual environment AOI-Py3
 ```bash
 > jupyter notebook
